@@ -1,0 +1,11 @@
+{   
+    "opr_type":"user",
+    "opr":"add",
+    "data":
+    {
+        "user_email":"pminesh4700@gmail.com",
+        "user_password":"1432Minesh@a",
+        "user_type":"A",
+        "user_name":"minesh@1234"
+    }
+}
